@@ -8,8 +8,6 @@
 }
 
 body {
-	scroll-behavior: smooth;
-	text-rendering: optimizeSpeed;
 	background: #FFFFFF;
 }
 
@@ -109,7 +107,7 @@ main {
     color: #FFFFFF; 
 }
 
-.WatchVideoBtn{
+.WatchVideoLnk{
     width: 140px;
     height: 50px;
     border-radius: 50px;
